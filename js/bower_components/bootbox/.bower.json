@@ -1,0 +1,14 @@
+{
+  "name": "bootbox",
+  "homepage": "https://github.com/makeusabrew/bootbox",
+  "version": "3.0.0",
+  "_release": "3.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.0.0",
+    "commit": "4ba9de46f0e0881c8532737296604126ff793a86"
+  },
+  "_source": "https://github.com/makeusabrew/bootbox.git",
+  "_target": "3.0.0",
+  "_originalSource": "bootbox"
+}
